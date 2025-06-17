@@ -3,8 +3,8 @@
 <br/>
 
 <div align="center">
-  <h1>¡Hola! 👋 Soy Rafael Merlín</h1>
-  <h3>💻 Desarrollador Web | Apasionado por la programación | Explorador de nuevas ideas</h3>
+  <h1>Hello! 👋 I'm Rafael Merlín</h1>
+  <h3>💻 Web Developer | Passionate about Programming | Explorer of New Ideas</h3>
   <p>
     <a href="https://www.linkedin.com/in/rafael-merlin-6138aa363" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
@@ -19,9 +19,9 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" align="right">
-  <h3>👨‍💻 Sobre mí</h3>
+  <h3>👨‍💻 About Me</h3>
   <p>
-    Soy un desarrollador enfocado en crear aplicaciones web modernas usando tecnologías como React, Flask, Tailwind y MongoDB. Me encanta aprender nuevas herramientas, automatizar procesos y dar vida a ideas creativas. En mis proyectos encontrarás desde foros, contadores sociales hasta bots generadores de memes 🤖.
+    I'm a developer focused on building modern web applications using technologies like React, Flask, Tailwind, and MongoDB. I love learning new tools, automating processes, and bringing creative ideas to life. My projects range from forums and social counters to meme-generating bots 🤖.
   </p>
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=rafaelmerlin23&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" />
@@ -56,11 +56,9 @@
 
 ---
 
+### 📬 Let's Connect
 
-### 📬 ¿Hablamos?
-
-Estoy abierto a colaborar, resolver dudas o simplemente compartir ideas.  
-¡No dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/rafael-merlin-6138aa363)!
+I'm open to collaborations, answering questions, or simply sharing ideas.  
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/rafael-merlin-6138aa363)!
 
 ---
-
